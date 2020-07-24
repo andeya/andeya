@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🤓 Stay curious
-- 💯 Stay optimistic
+- 🤔 Stay hungry
+- 🤓 Stay young
 
 ![henrylee2cn github stats](https://github-readme-stats.vercel.app/api?username=henrylee2cn)
 

@@ -27,3 +27,7 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=henrylee2cn&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylee2cn&layout=compact" />
 </div>
+
+<br/><br/>
+
+- **[Join ByteDance](https://bytedance.feishu.cn/docs/doccnnpZqtAY1OXXRBtyJUA1Eqf)**

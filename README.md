@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylee2cn&layout=compact" />
 </div>
 
-<br/><br/>
+<br/>
 
 - **[Join ByteDance](https://bytedance.feishu.cn/docs/doccnnpZqtAY1OXXRBtyJUA1Eqf)**

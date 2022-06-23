@@ -3,7 +3,7 @@
 
 - 🤔 Stay hungry
 - 🤓 Stay young
-- 👋 **[Welcome to join ByteDance](https://bytedance.feishu.cn/docs/doccnnpZqtAY1OXXRBtyJUA1Eqf)**
+- 👋 [Welcome to join ByteDance](https://bytedance.feishu.cn/docs/doccnnpZqtAY1OXXRBtyJUA1Eqf)
 
 
 <!--

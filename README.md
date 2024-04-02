@@ -5,9 +5,10 @@
   - Go
   - Rust
   - WebAssembly
+  - Blockchain
   - Backend Architecture
   - Other technologies of interest
-- 👋 [Welcome to join ByteDance](https://bytedance.feishu.cn/docs/doccnnpZqtAY1OXXRBtyJUA1Eqf)
+
 
 
 

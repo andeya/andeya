@@ -4,9 +4,9 @@
 - 🔭 Focus on:
   - Rust
   - Go
+  - Architecture
   - WebAssembly
   - Blockchain
-  - Backend Architecture
   - Other technologies of interest
 
 

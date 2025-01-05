@@ -2,8 +2,8 @@
 
 - 😄 Stay hungry, Stay young
 - 🔭 Focus on:
-  - Go
   - Rust
+  - Go
   - WebAssembly
   - Blockchain
   - Backend Architecture
